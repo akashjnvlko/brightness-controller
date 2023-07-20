@@ -1,3 +1,6 @@
+![image](https://github.com/akashjnvlko/brightness-controller/assets/34792484/29f86ee2-5afd-405c-a751-fbb67615a5fa)
+
+
 # Brightness Control App
 
 The Brightness Control App is a user-friendly tool designed to adjust the brightness of external monitors on Ubuntu.
