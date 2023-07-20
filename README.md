@@ -1,5 +1,4 @@
-![image](https://github.com/akashjnvlko/brightness-controller/assets/34792484/29f86ee2-5afd-405c-a751-fbb67615a5fa)
-
+![ezgif-3-748e242663](https://github.com/akashjnvlko/brightness-controller/assets/34792484/e0a336e2-da3f-4f10-8228-4550c6c84a32)
 
 # Brightness Control App
 
