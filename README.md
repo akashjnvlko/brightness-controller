@@ -20,7 +20,7 @@ The Brightness Control App is a user-friendly tool designed to adjust the bright
 
 - Installation of ddccontrol: The app uses the `ddccontrol` utility to control monitor brightness. To install it, use the following command in the terminal:
 - `sudo apt install ddcontrol`
-- Shortcut: Run `install.sh` to create the desktop shortcut.
+- Run `install.sh` to create the desktop shortcut.
 
 ## Important Notes
 
